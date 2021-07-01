@@ -1,5 +1,5 @@
 - 👋 Hi, mein Name ist Colin D.
-- 👀 Ich interessiere mich für Entwicklung mit Java.
+- 👀 Ich interessiere mich für die Entwicklung mit Java.
 - 🌱 Ich lerne zur Zeit noch Java.
 - 💞️ Mein bester Freund ist Chxotischer.
 - 📫 Ich möchte erreichen, ein sehr guter Entwickler zu werden.
